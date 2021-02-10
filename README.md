@@ -5,11 +5,11 @@
 
 <img width="198" alt="keyboard" src="https://user-images.githubusercontent.com/56959832/107496154-a3f76580-6b99-11eb-9cb0-2d9d382b44a3.png">
 
-######KeyboardView
+#####KeyboardView
 
 An extension of View that renders a keyboard and responds to user input events. The keyboard layout is specified by an instance of Keyboard, which you can define in an XML file.
 
-######Input method API
+####Input method API
 
 Service component, class with callbacks for providing IME's UI.
 Handling user input, and delivering text to the field that currently has focus. By default, the Input Method Service class provides most of the implementation for managing the state and visibility of the IME and communicating with the current input field.
