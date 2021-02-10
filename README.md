@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?label=Follow&style=social">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/GalShashua/Custom-Keyboard-Service">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/GalShashua/Custom-Keyboard-Service?color=%2300ff00">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GalShashua/Custom-Keyboard-Service?color=%2301ff88">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GalShashua/Custom-Keyboard-Service?color=%23011f88">
 <img alt="Gitter" src="https://img.shields.io/gitter/room/GalShashua/Custom-Keyboard-Service?color=%23ff0000">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GalShashua/Custom-Keyboard-Service?color=%2300ffff">
 
